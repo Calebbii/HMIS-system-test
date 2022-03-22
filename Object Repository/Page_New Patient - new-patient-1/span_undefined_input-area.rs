@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_undefined_input-area</name>
+   <tag></tag>
+   <elementGuidId>c9672a6e-ac7a-4116-accf-77665f9a4215</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form > div.form-group.frappe-control.input-max-width > div.checkbox > label > span.input-area</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-Patient']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div[3]/div[2]/div[2]/div[2]/form/div[7]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-area</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-Patient&quot;)/div[@class=&quot;container page-body&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row layout-main&quot;]/div[@class=&quot;col layout-main-section-wrapper&quot;]/div[@class=&quot;layout-main-section&quot;]/div[2]/div[1]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section card-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-6&quot;]/form[1]/div[@class=&quot;form-group frappe-control input-max-width&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;input-area&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-Patient']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div[3]/div[2]/div[2]/div[2]/form/div[7]/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='undefined'])[5]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Number (UID)'])[2]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is VIP Patient'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Staff'])[1]/preceding::span[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

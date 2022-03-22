@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Percentage_input-with-feedback form-control</name>
+   <tag></tag>
+   <elementGuidId>aa7ec935-d387-499f-839c-e2c9d5e37408</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[23]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-with-feedback form-control</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fieldtype</name>
+      <type>Main</type>
+      <value>Percent</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fieldname</name>
+      <type>Main</type>
+      <value>percentage</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-doctype</name>
+      <type>Main</type>
+      <value>Copayment Detail</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-Insurance Category&quot;)/div[@class=&quot;container page-body&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row layout-main&quot;]/div[@class=&quot;col layout-main-section-wrapper&quot;]/div[@class=&quot;layout-main-section&quot;]/div[2]/div[1]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section card-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control form-group&quot;]/div[@class=&quot;form-grid&quot;]/div[@class=&quot;grid-body&quot;]/div[@class=&quot;rows&quot;]/div[@class=&quot;grid-row grid-row-open&quot;]/div[@class=&quot;form-in-grid&quot;]/div[@class=&quot;grid-form-body&quot;]/div[@class=&quot;form-area&quot;]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control input-max-width&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;control-input-wrapper&quot;]/div[@class=&quot;control-input&quot;]/input[@class=&quot;input-with-feedback form-control&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[23]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-Insurance Category']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div[3]/div[4]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/form/div[6]/div/div[2]/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+   </webElementXpaths>
+</WebElementEntity>

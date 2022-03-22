@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Advanced Search_input-with-feedback bold</name>
+   <tag></tag>
+   <elementGuidId>b2c6bab6-252d-4f7e-9c17-afee218e74ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.input-area > input.input-with-feedback.bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-with-feedback bold</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fieldtype</name>
+      <type>Main</type>
+      <value>Check</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fieldname</name>
+      <type>Main</type>
+      <value>is_primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-doctype</name>
+      <type>Main</type>
+      <value>Patient Parents Detail</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-Patient&quot;)/div[@class=&quot;container page-body&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row layout-main&quot;]/div[@class=&quot;col layout-main-section-wrapper&quot;]/div[@class=&quot;layout-main-section&quot;]/div[2]/div[1]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section card-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control form-group&quot;]/div[@class=&quot;form-grid&quot;]/div[@class=&quot;grid-body&quot;]/div[@class=&quot;rows&quot;]/div[@class=&quot;grid-row grid-row-open&quot;]/div[@class=&quot;form-in-grid&quot;]/div[@class=&quot;grid-form-body&quot;]/div[@class=&quot;form-area&quot;]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;form-group frappe-control input-max-width&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;input-area&quot;]/input[@class=&quot;input-with-feedback bold&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[15]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-Patient']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div[3]/div[4]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/form/div[5]/div/label/span/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/label/span/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+   </webElementXpaths>
+</WebElementEntity>
