@@ -112,7 +112,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search'])[3]/following::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search'])[1]/following::select[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,5 +141,12 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@type = 'text' and (text() = 'Flat RatePercentage' or . = 'Flat RatePercentage')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search'])[3]/following::select[1]</value>
    </webElementXpaths>
 </WebElementEntity>

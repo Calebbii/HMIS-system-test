@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[25]</value>
+         <value>(//input[@type='text'])[22]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -63,7 +63,7 @@
       <matchCondition>equals</matchCondition>
       <name>data-doctype</name>
       <type>Main</type>
-      <value>Copayment Detail</value>
+      <value>Insurance Billing Rule</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,6 +74,34 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[22]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-Insurance Category']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div[3]/div[5]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/form/div[4]/div/div[2]/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/form/div[4]/div/div[2]/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -92,13 +120,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div[2]/div/input</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

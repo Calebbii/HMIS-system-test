@@ -126,7 +126,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Begin typing for results.'])[7]/preceding::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Begin typing for results.'])[9]/preceding::select[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,5 +141,12 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@type = 'text' and (text() = 'InpatientOutpatient' or . = 'InpatientOutpatient')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Begin typing for results.'])[7]/preceding::select[1]</value>
    </webElementXpaths>
 </WebElementEntity>

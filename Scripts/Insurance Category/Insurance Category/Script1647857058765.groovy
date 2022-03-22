@@ -67,6 +67,28 @@ WebUI.click(findTestObject('Page_New Insurance Category/button_Add Row'))
 
 WebUI.click(findTestObject('Page_New Insurance Category/div_Edit'))
 
-not_run: WebUI.setText(findTestObject('Page_New Insurance Category/input_Healthcare Service Unit_input-with-feedback form-control'), 
-    '')
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Healthcare Service Unit_input-with-feedback form-control'), 
+    'Pharmacy - GCH')
+
+WebUI.selectOptionByLabel(findTestObject('Page_New Insurance Category/select_Flat RatePercentage'), 'Flat Rate', false)
+
+WebUI.selectOptionByLabel(findTestObject('Page_New Insurance Category/select_InpatientOutpatient'), 'Outpatient', false)
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Percentage Of_input-with-feedback form-control'), 'RAD')
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Amount_input-with-feedback form-control'), '20,000.00')
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Percentage_input-with-feedback form-control'), '15.000')
+
+WebUI.click(findTestObject('Page_New Insurance Category/input_Valid From_input-with-feedback form-control'))
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Valid From_input-with-feedback form-control'), '03-03-2021')
+
+WebUI.click(findTestObject('Page_New Insurance Category/input_Valid Upto_input-with-feedback form-control'))
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Valid Upto_input-with-feedback form-control'), '08-07-2022')
+
+WebUI.click(findTestObject('Page_New Insurance Category/button_Insert Below'))
+
+WebUI.click(findTestObject('Page_New Insurance Category/svg_Insert Below_icon  icon-sm'))
 

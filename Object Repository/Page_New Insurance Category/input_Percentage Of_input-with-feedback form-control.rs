@@ -84,14 +84,14 @@
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>true</value>
+      <value>false</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-owns</name>
       <type>Main</type>
-      <value>awesomplete_list_14</value>
+      <value>awesomplete_list_10</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,16 +103,16 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-activedescendant</name>
+      <name>xpath</name>
       <type>Main</type>
-      <value>awesomplete_list_14_item_0</value>
+      <value>id(&quot;page-Insurance Category&quot;)/div[@class=&quot;container page-body&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row layout-main&quot;]/div[@class=&quot;col layout-main-section-wrapper&quot;]/div[@class=&quot;layout-main-section&quot;]/div[2]/div[1]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section card-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control form-group&quot;]/div[@class=&quot;form-grid&quot;]/div[@class=&quot;grid-body&quot;]/div[@class=&quot;rows&quot;]/div[@class=&quot;grid-row grid-row-open&quot;]/div[@class=&quot;form-in-grid&quot;]/div[@class=&quot;grid-form-body&quot;]/div[@class=&quot;form-area&quot;]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control input-max-width&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;control-input-wrapper&quot;]/div[@class=&quot;control-input&quot;]/div[@class=&quot;link-field ui-front&quot;]/div[@class=&quot;awesomplete&quot;]/input[@class=&quot;input-with-feedback form-control&quot;]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>id(&quot;page-Insurance Category&quot;)/div[@class=&quot;container page-body&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row layout-main&quot;]/div[@class=&quot;col layout-main-section-wrapper&quot;]/div[@class=&quot;layout-main-section&quot;]/div[2]/div[1]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section card-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control form-group&quot;]/div[@class=&quot;form-grid&quot;]/div[@class=&quot;grid-body&quot;]/div[@class=&quot;rows&quot;]/div[@class=&quot;grid-row grid-row-open&quot;]/div[@class=&quot;form-in-grid&quot;]/div[@class=&quot;grid-form-body&quot;]/div[@class=&quot;form-area&quot;]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control input-max-width&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;control-input-wrapper&quot;]/div[@class=&quot;control-input&quot;]/div[@class=&quot;link-field ui-front&quot;]/div[@class=&quot;awesomplete&quot;]/input[@class=&quot;input-with-feedback form-control&quot;]</value>
+      <value>awesomplete_list_14_item_0</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

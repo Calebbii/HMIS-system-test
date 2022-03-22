@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Outpatient Cover_input-with-feedback form-control</name>
+   <name>input_Insurance Billing Rule Templates_input-with-feedback form-control</name>
    <tag></tag>
-   <elementGuidId>b6ac08dc-4bb0-4702-b0f1-7d4de3e50ae7</elementGuidId>
+   <elementGuidId>73afcf67-5530-4462-8d65-2aaa27e5dd72</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[18]</value>
+         <value>(//input[@type='text'])[20]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>div.form-column.col-sm-12 > form > div.frappe-control.input-max-width > div.form-group > div.control-input-wrapper > div.control-input > div.link-field.ui-front > div.awesomplete > input.input-with-feedback.form-control</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -56,21 +56,21 @@
       <matchCondition>equals</matchCondition>
       <name>data-fieldname</name>
       <type>Main</type>
-      <value>outpatient_insurance</value>
+      <value>insurance_billing_rule_templates</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-doctype</name>
       <type>Main</type>
-      <value>Insurance Category</value>
+      <value>Insurance Billing Rule</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-target</name>
       <type>Main</type>
-      <value>Insurance Company</value>
+      <value>Insurance Billing Rule Template</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-owns</name>
       <type>Main</type>
-      <value>awesomplete_list_8</value>
+      <value>awesomplete_list_9</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -105,35 +105,35 @@
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>awesomplete_list_8_item_0</value>
+      <value>awesomplete_list_9_item_0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;page-Insurance Category&quot;)/div[@class=&quot;container page-body&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row layout-main&quot;]/div[@class=&quot;col layout-main-section-wrapper&quot;]/div[@class=&quot;layout-main-section&quot;]/div[2]/div[1]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section card-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-6&quot;]/form[1]/div[@class=&quot;frappe-control input-max-width&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;control-input-wrapper&quot;]/div[@class=&quot;control-input&quot;]/div[@class=&quot;link-field ui-front&quot;]/div[@class=&quot;awesomplete&quot;]/input[@class=&quot;input-with-feedback form-control&quot;]</value>
+      <value>id(&quot;page-Insurance Category&quot;)/div[@class=&quot;container page-body&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row layout-main&quot;]/div[@class=&quot;col layout-main-section-wrapper&quot;]/div[@class=&quot;layout-main-section&quot;]/div[2]/div[1]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section card-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control form-group&quot;]/div[@class=&quot;form-grid&quot;]/div[@class=&quot;grid-body&quot;]/div[@class=&quot;rows&quot;]/div[@class=&quot;grid-row grid-row-open&quot;]/div[@class=&quot;form-in-grid&quot;]/div[@class=&quot;grid-form-body&quot;]/div[@class=&quot;form-area&quot;]/div[@class=&quot;form-layout&quot;]/div[@class=&quot;form-page&quot;]/div[@class=&quot;row form-section visible-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;form-column col-sm-12&quot;]/form[1]/div[@class=&quot;frappe-control input-max-width&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;control-input-wrapper&quot;]/div[@class=&quot;control-input&quot;]/div[@class=&quot;link-field ui-front&quot;]/div[@class=&quot;awesomplete&quot;]/input[@class=&quot;input-with-feedback form-control&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[18]</value>
+      <value>(//input[@type='text'])[20]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='page-Insurance Category']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div[3]/div[3]/div[2]/div[2]/form/div/div/div[2]/div/div/div/input</value>
+      <value>//div[@id='page-Insurance Category']/div[2]/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div[3]/div[5]/div[2]/div/form/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/form/div/div/div[2]/div/div/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/form/div/div/div[2]/div/div/div/input</value>
+      <value>//div[2]/div/div/div/form/div/div/div[2]/div/div/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
