@@ -35,7 +35,19 @@ WebUI.click(findTestObject('Page_New Insurance Category/button_Add Row'))
 
 WebUI.click(findTestObject('Page_New Insurance Category/div_Edit'))
 
-WebUI.setText(findTestObject('Page_New Insurance Category/input_Device_input-with-feedback form-control'), 'GCHVD00005')
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Item_input-with-feedback form-control bold'), 'Bed Charge')
+
+WebUI.selectOptionByLabel(findTestObject('Page_New Insurance Category/select_AllInpatientOutpatient'), 'All', false)
+
+WebUI.click(findTestObject('Page_New Insurance Category/input_Valid From_input-with-feedback form-control bold'))
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Valid From_input-with-feedback form-control bold'), '02-03-2022')
+
+WebUI.click(findTestObject('Page_New Insurance Category/input_Valid Upto_input-with-feedback form-control bold'))
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Valid Upto_input-with-feedback form-control bold'), '14-03-2022')
+
+WebUI.setText(findTestObject('Page_New Insurance Category/input_Amount_input-with-feedback form-control bold'), '40,000.00')
 
 WebUI.click(findTestObject('Page_New Insurance Category/button_Insert Below'))
 
