@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Page_Login/a_Login'))
 
 WebUI.setText(findTestObject('Page_Login/input_Email_login_email'), 'devintern@gerties.org')
 
-WebUI.setText(findTestObject('Page_Login/input_Password_login_password'), 'hmistest')
+WebUI.setEncryptedText(findTestObject('Page_Login/input_Password_login_password'), '2Y+Fq/E3aIsYLI6t/JFI9w==')
 
 WebUI.click(findTestObject('Page_Login/button_Login'))
 

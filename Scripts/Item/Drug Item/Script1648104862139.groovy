@@ -29,24 +29,5 @@ WebUI.setEncryptedText(findTestObject('Page_Login/input_Password_login_password'
 
 WebUI.click(findTestObject('Page_Login/button_Login'))
 
-WebUI.click(findTestObject('Page_Insurance Category/button_Add Insurance Category'))
-
-WebUI.click(findTestObject('Page_New Insurance Category/button_Add Row'))
-
-WebUI.click(findTestObject('Page_New Insurance Category/div_Edit'))
-
-WebUI.setText(findTestObject('Page_New Insurance Category/input_Insurance Billing Rule Templates_input-with-feedback form-control'), 
-    'Covid Testing')
-
-WebUI.click(findTestObject('Page_New Insurance Category/input_Valid From_input-with-feedback form-control'))
-
-WebUI.setText(findTestObject('Page_New Insurance Category/input_Valid From_input-with-feedback form-control'), '04-06-2021')
-
-WebUI.click(findTestObject('Page_New Insurance Category/input_Valid Upto_input-with-feedback form-control'))
-
-WebUI.setText(findTestObject('Page_New Insurance Category/input_Valid Upto_input-with-feedback form-control'), '02-03-2022')
-
-WebUI.click(findTestObject('Page_New Insurance Category/button_Insert Below'))
-
-WebUI.click(findTestObject('Page_New Insurance Category/svg_Insert Below_icon  icon-sm'))
+WebUI.navigateToUrl('https://apps.gerties.org:9100/app/item')
 
