@@ -41,7 +41,7 @@ WebUI.setText(findTestObject('Page_New Patient Encounter - new-patient-encounter
 WebUI.setText(findTestObject('Page_New Patient Encounter - new-patient-encounter-1/input_Phone Number_input-with-feedback form-control'), 
     '710516225')
 
-WebUI.uncheck(findTestObject('Page_New Patient Encounter - new-patient-encounter-1/input_undefined_input-with-feedback'))
+not_run: WebUI.uncheck(findTestObject('Page_New Patient Encounter - new-patient-encounter-1/input_undefined_input-with-feedback'))
 
 WebUI.check(findTestObject('Page_New Patient Encounter - new-patient-encounter-1/input_undefined_input-with-feedback'))
 
